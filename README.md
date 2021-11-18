@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlienbrainsOOTP
 - 👀 I’m interested in baseball analytics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R / Python
 - 💞️ I’m looking to collaborate on OOTP
 - 📫 How to reach me ...
 
